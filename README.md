@@ -5,7 +5,7 @@ Essa é minha página inicial do GitHub, que tal uma xícara de café para acomp
 <img src=https://user-images.githubusercontent.com/106844062/178858950-0132dcf8-a905-44fa-be70-931069c51315.png width="180" height="180"/>
 
 - 🔭 Atualmente trabalho com hospedagem de site e e-mails.
-- 🌱 Aprendendo desenvolvimento através do Entra21 e cursos externos, pretendo ser uma dev. full stack.
+- 🌱 Especializada em desenvolvimento utilizando React Native através da Proway e atualmente cursando Engenharia de Software pela Estácio.
 - 🤔 Também realizo projetos pessoais externos, no momento em específico de Desenvolvimento Front-End pela META.
 -->
 
