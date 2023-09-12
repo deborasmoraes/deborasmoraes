@@ -2,22 +2,28 @@ Oii, tudo bem?
 
 Essa é minha página inicial do GitHub, que tal uma xícara de café para acompanhar melhor?
 <br>
-<img src=https://user-images.githubusercontent.com/106844062/178858950-0132dcf8-a905-44fa-be70-931069c51315.png width="180" height="180"/>
 
-- 🔭 Atualmente trabalho com hospedagem de site e e-mails.
-- 🌱 Especializada em desenvolvimento utilizando React Native através da Proway e atualmente cursando Engenharia de Software pela Estácio.
-- 🤔 Também realizo projetos pessoais externos, no momento em específico de Desenvolvimento Front-End pela META.
+- 🔭 Trabalho como TechOps, sendo responsável por network administration e database management. Mas meu foco principal é a automation de processos, desenvolvimento de ferramentas e construção de aplicações.
+- 🌱 Desempenho muito bem as atividades utilizando Python e JavaScript. Manjo muito de Linux pelo trabalho, mas Windows tem meu coração!
+- 🤔 Curiosidade: Aprendi HTML tentando ter mais moedas no Stardoll, spoiler: não deu! 
 -->
 
 ### Main skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 ### Estudando no momento:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
