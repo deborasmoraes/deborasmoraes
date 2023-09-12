@@ -1,13 +1,11 @@
-Hello, how are you?
+### Hello, how are you?
 
-This is my GitHub homepage, how about a cup of coffee to make it better?
-<br>
+### This is my GitHub homepage, how about a cup of coffee to make it better?
 
-🔭  I work as TechOps, responsible for network administration and database management. But my main focus is process automation, tools development, and application building.
-🌱 Currently studying Software Engineering at Estácio and Computer Science at the University of the People.
-🤔 Fun fact: I learned HTML trying to get more coins on Stardoll, spoiler: it didn't work!
+### 🔭  I work as TechOps, responsible for network administration and database management. But my main focus is process automation, tools development, and application building. 
+### 🌱 Currently studying Software Engineering at Estácio and Computer Science at the University of the People.
+### 🤔 Fun fact: I learned HTML trying to get more coins on Stardoll, spoiler: it didn't work!
 
--->
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
