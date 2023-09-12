@@ -4,7 +4,7 @@ Essa é minha página inicial do GitHub, que tal uma xícara de café para acomp
 <br>
 
 - 🔭 Trabalho como TechOps, sendo responsável por network administration e database management. Mas meu foco principal é a automation de processos, desenvolvimento de ferramentas e construção de aplicações.
-- 🌱 Desempenho muito bem as atividades utilizando Python e JavaScript. Manjo muito de Linux pelo trabalho, mas Windows tem meu coração!
+- 🌱 Atualmente estudando Engenharia de Software na Estácio e Computer Science in the University of the People.
 - 🤔 Curiosidade: Aprendi HTML tentando ter mais moedas no Stardoll, spoiler: não deu! 
 -->
 
@@ -18,7 +18,6 @@ Essa é minha página inicial do GitHub, que tal uma xícara de café para acomp
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
-
 
 
 ### Ferramentas:
@@ -36,7 +35,7 @@ Essa é minha página inicial do GitHub, que tal uma xícara de café para acomp
 
 Vamos conversar um pouco?
 <div>
-<a href="https://instagram.com/_moraesdeb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/https.debb?igshid=NzZlODBkYWE4Ng==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:deboracvd@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/deborahelenmoraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
